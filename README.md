@@ -185,22 +185,6 @@ The project includes visualizations such as:
 
 ---
 
-# Screenshots
-
-Add screenshots inside the `screenshots/` folder.
-
-Example:
-
-```md
-## Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-## Demographic Analysis
-![Analysis](screenshots/chart1.png)
-```
-
----
-
 # Requirements
 
 Example `requirements.txt`
@@ -218,7 +202,7 @@ jupyter
 
 # Learning Outcomes
 
-Through this project, you practiced:
+Through this project, I practiced:
 
 - Data preprocessing
 - Exploratory Data Analysis
@@ -241,14 +225,5 @@ Through this project, you practiced:
 ---
 
 # Author
-
 **Shwati Narayan**
-
 B.Tech Data Science Student  
-Interested in Data Analytics, Machine Learning, and Research-Based Projects
-
----
-
-# License
-
-This project is for educational and learning purposes.
